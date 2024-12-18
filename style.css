@@ -1,0 +1,30 @@
+.grid-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    font-size: 1.2rem;
+    background-color: #6c757d;
+    /* Default gray background */
+}
+
+.item-large {
+    background-color: #007bff;
+    /* Blue */
+    height: 200px;
+}
+
+.item-medium {
+    background-color: #28a745;
+    /* Green */
+    height: 150px;
+}
+
+.item-small {
+    background-color: #ffc107;
+    /* Yellow */
+    height: 100px;
+}
